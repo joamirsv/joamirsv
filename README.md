@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o joamir VIeira 🖐️
+### Olá! Eu sou o Joamir Vieira 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joamir.vieira)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joamir-vieira-a59594211)
