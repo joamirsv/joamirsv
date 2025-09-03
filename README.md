@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joamir.files@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/joamirvieira)
 
-![Joamir GitHub stats](https://github-readme-stats.vercel.app/api?username=joamirsv&show_icons=true&theme=darcula)
+![Joamir GitHub stats](https://github-readme-stats.vercel.app/api?username=joamirsv&show_icons=true&theme=react)
 
 📊 Analista de Dados Jr. | Focado em transformar conjuntos de dados complexos em visualizações claras e decisões inteligentes. Acredito no poder da comunidade e do compartilhamento de conhecimento.
 
